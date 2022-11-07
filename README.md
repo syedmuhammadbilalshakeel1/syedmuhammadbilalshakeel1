@@ -28,5 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedmuhammadbilalshakeel1&show_icons=true&locale=en" alt="syedmuhammadbilalshakeel1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmuhammadbilalshakeel1&" alt="syedmuhammadbilalshakeel1" /></p>
-<img width="815" alt="image" src="https://user-images.githubusercontent.com/102545337/199001328-60abd44f-ca06-4bec-b7a4-2a1e52c887a1.png">
+
+<img width="710" alt="image" src="https://user-images.githubusercontent.com/102545337/200351852-216944ad-0117-45b5-af9a-c72ae7e85bf7.png">
+
 
