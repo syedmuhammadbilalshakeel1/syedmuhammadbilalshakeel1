@@ -1,7 +1,7 @@
 <img align="" alt="" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif">
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=010203&multiline=true&width=435&lines=Junior+full+stack+developer+(Frontend+%2C;+backend+%2Candroid)+from+pakistan" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=010203&multiline=true&width=435&lines=full+stack+developer+(Frontend+%2C;+backend+%2Candroid)+from+pakistan" alt="Typing SVG" /></a>
 
 
 
