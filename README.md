@@ -34,4 +34,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmuhammadbilalshakeel1&" alt="syedmuhammadbilalshakeel1" /></p>
 
-<img width="710" alt="image" src="https://user-images.githubusercontent.com/102545337/200351852-216944ad-0117-45b5-af9a-c72ae7e85bf7.png">
+<!-- <img width="710" alt="image" src="https://user-images.githubusercontent.com/102545337/200351852-216944ad-0117-45b5-af9a-c72ae7e85bf7.png"> -->
+
+
+[![An image of @syedmuhammadbilal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syedmuhammadbilal)](https://holopin.io/@syedmuhammadbilal)
