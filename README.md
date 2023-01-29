@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=010203&multiline=true&width=435&lines=full+stack+developer+(Frontend+%2C;+backend+%2Candroid)+from+pakistan" alt="Typing SVG" /></a>
-
+//idoidsojsc
 
 
 <h3 align="center">A passionate full stack developer from pakistan</h3>
