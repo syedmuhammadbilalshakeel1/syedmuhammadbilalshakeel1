@@ -32,11 +32,11 @@
 
 <h3>Blogs </h3>
   <a href="https://medium.com/@syedmuhammadbilal638" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="medium" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://dev.to/syedmuhammadbilalshakeel1" rel="nofollow"> <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="40" height="40" style="max-width: 100%;"> </a>
+<!--   <a href="https://dev.to/syedmuhammadbilalshakeel1" rel="nofollow"> <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="40" height="40" style="max-width: 100%;"> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedmuhammadbilalshakeel1&show_icons=true&locale=en&layout=compact" alt="syedmuhammadbilalshakeel1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedmuhammadbilalshakeel1&show_icons=true&locale=en" alt="syedmuhammadbilalshakeel1" /></p>
+ -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedmuhammadbilalshakeel1&show_icons=true&locale=en" alt="syedmuhammadbilalshakeel1" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmuhammadbilalshakeel1&" alt="syedmuhammadbilalshakeel1" /></p>
 
