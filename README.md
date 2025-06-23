@@ -10,7 +10,7 @@
 
 
 <h3 align="center">A passionate full stack developer from pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4161cab9dadf4e18637a26ac70e6aeb1775a3df2bd9438e9d21ae31c95be3bca/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313032353833382f73637265656e73686f74732f363232303838352f646576677579332e676966">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmuhammadbilalshakeel1&label=Profile%20views&color=0e75b6&style=flat" alt="syedmuhammadbilalshakeel1" /> </p>
 
